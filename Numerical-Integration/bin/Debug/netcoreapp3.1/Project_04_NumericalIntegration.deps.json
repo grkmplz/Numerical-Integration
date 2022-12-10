@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Project_04_NumericalIntegration/1.0.0": {
+        "runtime": {
+          "Project_04_NumericalIntegration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project_04_NumericalIntegration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

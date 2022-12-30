@@ -1,0 +1,14 @@
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\bin\Debug\netcoreapp3.1\Project_04_NumericalIntegration.exe
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\bin\Debug\netcoreapp3.1\Project_04_NumericalIntegration.deps.json
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\bin\Debug\netcoreapp3.1\Project_04_NumericalIntegration.runtimeconfig.json
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\bin\Debug\netcoreapp3.1\Project_04_NumericalIntegration.runtimeconfig.dev.json
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\bin\Debug\netcoreapp3.1\Project_04_NumericalIntegration.dll
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\bin\Debug\netcoreapp3.1\Project_04_NumericalIntegration.pdb
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\obj\Debug\netcoreapp3.1\Project_04_NumericalIntegration.csproj.AssemblyReference.cache
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\obj\Debug\netcoreapp3.1\Project_04_NumericalIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\obj\Debug\netcoreapp3.1\Project_04_NumericalIntegration.AssemblyInfoInputs.cache
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\obj\Debug\netcoreapp3.1\Project_04_NumericalIntegration.AssemblyInfo.cs
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\obj\Debug\netcoreapp3.1\Project_04_NumericalIntegration.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\obj\Debug\netcoreapp3.1\Project_04_NumericalIntegration.dll
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\obj\Debug\netcoreapp3.1\Project_04_NumericalIntegration.pdb
+C:\Users\gorke\Desktop\4-NumericalIntegration-master\obj\Debug\netcoreapp3.1\Project_04_NumericalIntegration.genruntimeconfig.cache
